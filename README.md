@@ -8,7 +8,7 @@
 - 🎯 Passionate about **Robotics** and **Artificial Intelligence**
 - 💡 Constantly learning to improve and master new skills
 - 🤝 Open to **collaborations** on innovative tech projects
-- 🌍 Based in **Türkiye**, with a global mindset
+- 🌍 Based in **Philippines**, with a global mindset
 
 ### 🔧 **Tech Stack:**
 - **Languages:** Python, JavaScript, HTML, CSS
@@ -16,11 +16,6 @@
 - **Tools:** Git, Docker, Linux, VS Code, Postman, Webpack
 - **Databases:** MySQL, MongoDB, PostgreSQL
 - **Other:** RESTful APIs, GraphQL, Microservices Architecture
-
-### 📂 **Pinned Repositories:**
-- 🔗 [**AdamTheFirst**](https://github.com/AdamTheFirst) - Config files for my GitHub profile
-- 🌐 [**duzcesefanakliyat-com**](https://github.com/AdamTheFirst/duzcesefanakliyat-com) - Website project (HTML)
-- ⚙️ [**oh-my-posh**](https://github.com/AdamTheFirst/oh-my-posh) - Personal Oh My Posh configs
 
 ### 🌱 **Current Goals:**
 - 🚀 Mastering **AI development** techniques with **Python**
