@@ -78,4 +78,4 @@ AI-assisted development • Prompt engineering • Workflow automation • Model
 💼 **Open to**: Freelance projects, consulting engagements, and remote opportunities  
 🎯 **Specialties**: AI integration, microservices architecture, full-stack development, technical leadership
 
-⭐️ From [salihyildirim](https://github.com/salihyildirim)
+⭐️ From [AdamTheFirst](https://github.com/AdamTheFirst)
