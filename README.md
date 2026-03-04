@@ -1,22 +1,22 @@
 # Hi, I'm Salih Yildirim 👋
 
-**Senior Full-Stack Software Engineer | AI-Enabled Development & Automation**
+**Senior Full-Stack Software Engineer | Agentic AI & Scalable Systems**
 
-I build scalable web applications with AI-powered features. Currently working as a freelance Senior Full-Stack Engineer, specializing in helping teams integrate AI capabilities without losing control of their data or breaking the bank.
+Senior Full-Stack Software Engineer with 6+ years of experience designing, building, and operating mission-critical production platforms. Currently building agentic AI workflows and LLM-powered backend services in production at EGS, using React, Python, and cloud-deployed systems on Azure and AWS.
 
 ## 🚀 What I Do
 
-- **Full-Stack Development**: Building end-to-end applications with React, TypeScript, Node.js, Python, and ASP.NET
-- **AI Integration**: Implementing machine learning features, RAG pipelines, and AI-assisted workflows in production
-- **Architecture**: Designing and migrating to microservices architectures with proven scalability improvements
-- **Team Leadership**: Leading distributed teams across time zones, delivering complex migrations with 100% client retention
+- **Full-Stack Development**: End-to-end applications with React, TypeScript, Python, and REST/GraphQL APIs
+- **Agentic AI**: Building LLM-powered backend services with tool-calling and structured outputs in production
+- **Architecture**: Scalable systems, resilient data pipelines, and containerized microservices
+- **Team Leadership**: Distributed teams across Asia & Europe, Agile delivery, technical mentorship
 
 ## 💼 Current Focus
 
-- AI-enabled backend services (Python, REST/GraphQL APIs)
-- Microservices architecture and containerization (Docker)
-- Cloud infrastructure (Azure, AWS)
-- Remote team collaboration and Agile delivery
+- Agentic AI workflows (OpenAI APIs, tool-calling, structured outputs)
+- Full-stack features with React (TypeScript) + Python
+- Data pipelines, automation, and operational reliability
+- Cloud infrastructure and CI/CD (Azure, Docker)
 
 ## 🛠️ Tech Stack
 
@@ -26,10 +26,10 @@ I build scalable web applications with AI-powered features. Currently working as
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-**Backend**  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+**Backend & Data**  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=.net&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
 
 **Databases**  
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
@@ -41,19 +41,21 @@ I build scalable web applications with AI-powered features. Currently working as
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-**AI/ML Tools**  
-AI-assisted development • Prompt engineering • Workflow automation • Model integration
+**AI & Automation**  
+Agentic AI workflows • LLM integration • Tool-calling & structured outputs • Data pipelines • Automation
 
 ## 📊 Recent Achievements
 
+- ✅ Architected and shipped **agentic AI workflows** with OpenAI APIs in production
+- ✅ Built **LLM-powered backend services** automating domain-specific workflows
 - ✅ Led a 2.5-year platform migration with **100% client retention**
-- ✅ Achieved **50% improvement in system scalability**
-- ✅ Designed and implemented microservices architecture across distributed teams
-- ✅ Built AI-enabled automation workflows in production environments
+- ✅ Designed resilient **data pipelines** and microservices across distributed teams
 
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [5 Python Patterns I Use in Every Microservice](https://salihyildirim.me/blog/5-python-patterns-i-use-in-every-microservice)
+- [How I Use AI to Write Better Code (Without Losing My Skills)](https://salihyildirim.me/blog/how-i-use-ai-to-write-better-code-without-losing-my-skills)
 - [Migrating to Microservices: Lessons from a Successful Platform Rebuild](https://salihyildirim.me/blog/migrating-to-microservices-lessons-from-a-successful-platform-rebuild)
 <!-- BLOG-POST-LIST:END -->
 
@@ -61,10 +63,10 @@ AI-assisted development • Prompt engineering • Workflow automation • Model
 
 ## 🌍 About Me
 
-- 🇹🇷 Based in Turkey, working remotely with clients across Asia, Europe, and beyond
+- 🇵🇭 Based in Manila, Philippines, working remotely with clients across Asia, Europe, and beyond
 - 🎓 Bachelor of Science in Information Technology (Cum Laude)
 - 💬 Fluent in English and Turkish
-- 🔭 Currently exploring: Local LLMs, RAG pipelines, and cost-effective AI integration
+- 🔭 Currently building: Agentic AI workflows, LLM-powered services, and scalable data pipelines
 - 📫 How to reach me: [info@salihyildirim.me](mailto:info@salihyildirim.me)
 
 ## 📬 Let's Connect
@@ -76,6 +78,6 @@ AI-assisted development • Prompt engineering • Workflow automation • Model
 ---
 
 💼 **Open to**: Freelance projects, consulting engagements, and remote opportunities  
-🎯 **Specialties**: AI integration, microservices architecture, full-stack development, technical leadership
+🎯 **Specialties**: Agentic AI, scalable systems, full-stack development, technical leadership
 
 ⭐️ From [AdamTheFirst](https://github.com/AdamTheFirst)
