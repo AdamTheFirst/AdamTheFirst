@@ -1,8 +1,8 @@
 # Hi, I'm Salih Yildirim 👋
 
-**Senior Full-Stack Software Engineer | Agentic AI & Scalable Systems**
+**AI Engineer | Agentic AI Workflows & Scalable Systems**
 
-Senior Full-Stack Software Engineer with 6+ years of experience designing, building, and operating mission-critical production platforms. Currently building agentic AI workflows and LLM-powered backend services in production at EGS, using React, Python, and cloud-deployed systems on Azure and AWS.
+AI Engineer with 6+ years of full-stack experience designing, building, and operating mission-critical production platforms. Currently architecting agentic AI workflows and LLM-powered backend services in production, using Python, React, TypeScript, and cloud-deployed systems on Azure and AWS.
 
 ## 🚀 What I Do
 
@@ -54,6 +54,7 @@ Agentic AI workflows • LLM integration • Tool-calling & structured outputs �
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How Local LLMs Replaced $300/Month in OpenAI Costs](https://salihyildirim.me/blog/how-local-llms-replaced-300-dollars-in-monthly-openai-costs)
 - [5 Python Patterns I Use in Every Microservice](https://salihyildirim.me/blog/5-python-patterns-i-use-in-every-microservice)
 - [How I Use AI to Write Better Code (Without Losing My Skills)](https://salihyildirim.me/blog/how-i-use-ai-to-write-better-code-without-losing-my-skills)
 - [Migrating to Microservices: Lessons from a Successful Platform Rebuild](https://salihyildirim.me/blog/migrating-to-microservices-lessons-from-a-successful-platform-rebuild)
