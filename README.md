@@ -1,84 +1,43 @@
-# Hi, I'm Salih Yildirim 👋
+# Salih Yildirim
 
-**AI Engineer | Agentic AI Workflows & Scalable Systems**
+**Senior Software Engineer, Applied AI | Agentic AI Workflows, LLM Services, RAG | Python, FastAPI, React, TypeScript**
 
-AI Engineer with 6+ years of full-stack experience designing, building, and operating mission-critical production platforms. Currently architecting agentic AI workflows and LLM-powered backend services in production, using Python, React, TypeScript, and cloud-deployed systems on Azure and AWS.
+Senior software engineer with 9 years of experience (building software since 2017). At EGS Enggist & Grandjean Software I ship production LLM integrations for Nooko.ai, an AI culinary platform: tool-calling agents, structured outputs, MCP integrations, and SSE-streamed responses, with Pydantic validation, a second-model self-correction loop, guardrails, and monitoring, on Python/FastAPI and React/TypeScript. I previously led the CalcMenu Cloud rebuild and work with distributed teams across Asia and Europe.
 
-## 🚀 What I Do
+## Tech stack
 
-- **Full-Stack Development**: End-to-end applications with React, TypeScript, Python, and REST/GraphQL APIs
-- **Agentic AI**: Building LLM-powered backend services with tool-calling and structured outputs in production
-- **Architecture**: Scalable systems, resilient data pipelines, and containerized microservices
-- **Team Leadership**: Distributed teams across Asia & Europe, Agile delivery, technical mentorship
-
-## 💼 Current Focus
-
-- Agentic AI workflows (OpenAI APIs, tool-calling, structured outputs)
-- Full-stack features with React (TypeScript) + Python
-- Data pipelines, automation, and operational reliability
-- Cloud infrastructure and CI/CD (Azure, Docker)
-
-## 🛠️ Tech Stack
-
-**Frontend**  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-**Backend & Data**  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
-
-**Databases**  
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
-
-**Cloud & DevOps**  
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-**AI & Automation**  
-Agentic AI workflows • LLM integration • Tool-calling & structured outputs • Data pipelines • Automation
+FastAPI, ASP.NET, Angular, CI/CD, REST, GraphQL, LangChain, RAG and vector databases, MCP, OpenAI and Claude APIs, local LLMs.
 
-## 📊 Recent Achievements
+## Highlights
 
-- ✅ Architected and shipped **agentic AI workflows** with OpenAI APIs in production
-- ✅ Built **LLM-powered backend services** automating domain-specific workflows
-- ✅ Led a 2.5-year platform migration with **100% client retention**
-- ✅ Designed resilient **data pipelines** and microservices across distributed teams
+- Building production agentic AI for Nooko.ai at EGS Enggist & Grandjean Software (Jun 2024–present): tool calling, structured outputs, MCP, and RAG with pgvector and re-ranking, using OpenAI and Claude APIs. Python/FastAPI services stream model output to React/TypeScript over SSE, with Pydantic validation, a second-model self-correction loop, per-run token budgets, and monitoring.
+- Led the CalcMenu Cloud rebuild (Jan 2021–Aug 2023), first alone and later with a team of 4. Replaced a slow legacy system with microservices (Angular, ASP.NET, Python, SQL Server), Docker, and CI/CD on Azure and AWS, and moved clients over while the old system stayed online.
+- Built Python microservices on RabbitMQ at Rimes Technologies International (Oct 2023–May 2024) for reliable client data-file delivery, with idempotent processing and validation.
 
-## 📝 Latest Blog Posts
+## Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How Local LLMs Replaced $300/Month in OpenAI Costs](https://salihyildirim.me/blog/how-local-llms-replaced-300-dollars-in-monthly-openai-costs)
-- [5 Python Patterns I Use in Every Microservice](https://salihyildirim.me/blog/5-python-patterns-i-use-in-every-microservice)
-- [How I Use AI to Write Better Code (Without Losing My Skills)](https://salihyildirim.me/blog/how-i-use-ai-to-write-better-code-without-losing-my-skills)
-- [Migrating to Microservices: Lessons from a Successful Platform Rebuild](https://salihyildirim.me/blog/migrating-to-microservices-lessons-from-a-successful-platform-rebuild)
+- [MCP Got My Agents Connected. Here's Everything I Had to Build Around It](https://salihyildirim.me/blog/mcp-got-my-agents-connected-heres-everything-i-had-to-build-around-it)
+- [Agentic AI in Production: What I Learned Building Tool-Calling Workflows](https://salihyildirim.me/blog/agentic-ai-in-production-what-i-learned-building-tool-calling-workflows)
+- [Building a RAG Pipeline That Actually Works](https://salihyildirim.me/blog/building-a-rag-pipeline-that-actually-works)
+- [I Was Spending $650 a Month on AI Coding Tools. Here's What I Changed](https://salihyildirim.me/blog/i-was-spending-650-a-month-on-ai-coding-tools-heres-what-i-changed)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [Read more on my blog](https://salihyildirim.me/blog)
+## Connect
 
-## 🌍 About Me
+- [Portfolio](https://salihyildirim.me)
+- [LinkedIn](https://www.linkedin.com/in/salih-yildirim)
+- [CV](https://salihyildirim.me/Salih-Yildirim-CV.pdf)
+- [Email](mailto:info@salihyildirim.me)
 
-- 🇵🇭 Based in Manila, Philippines, working remotely with clients across Asia, Europe, and beyond
-- 🎓 Bachelor of Science in Information Technology (Cum Laude)
-- 💬 Fluent in English and Turkish
-- 🔭 Currently building: Agentic AI workflows, LLM-powered services, and scalable data pipelines
-- 📫 How to reach me: [info@salihyildirim.me](mailto:info@salihyildirim.me)
-
-## 📬 Let's Connect
-
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://salihyildirim.me)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/salih-yildirim)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:info@salihyildirim.me)
-
----
-
-💼 **Open to**: Freelance projects, consulting engagements, and remote opportunities  
-🎯 **Specialties**: Agentic AI, scalable systems, full-stack development, technical leadership
-
-⭐️ From [AdamTheFirst](https://github.com/AdamTheFirst)
+Open to remote AI and full-stack opportunities and consulting.
